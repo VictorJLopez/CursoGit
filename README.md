@@ -1,10 +1,10 @@
 # CursoGit
 CursoGit
 
-Víctor es tonto y mala persona
+VÃ­ctor es tonto y mala persona --> Es Guapo e inteligente
 
-Rubén es un modorro y Javaphóbico
+RubÃ©n es un modorro y JavaphÃ³bico
 
-Javi es rusófilo
+Javi es rusÃ³filo
 
-Ángel come empanadas
+Ãngel come empanadas
